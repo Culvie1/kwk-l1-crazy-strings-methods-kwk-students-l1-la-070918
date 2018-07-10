@@ -1,5 +1,5 @@
 # write your method here
 
-def crazy_strings("Good".upcase.reverse,"Morning".swapcase.gsu)
-"Good".upcase.reverse,"Morning".swapcase.gsu
+def crazy_strings(a,b)
+puts #{a"Good".upcase.reverse,"Morning".swapcase.gsu
 end
